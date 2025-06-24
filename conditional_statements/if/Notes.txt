@@ -1,0 +1,51 @@
+## Conditional Statements
+--------------------------
+# control the flow of program execution on the condition
+
+------
+Types
+------
+1. if
+2. if-else
+3. elif
+4. nested if
+------
+
+1. if condition
+* if the given condition is satisfied it will executed true state block (TSB).
+* if the given condition is not satisfied it will show blank space.
+
+Syntax:-
+
+if (condition):
+    # true statement (True State Block)
+    # supports multiple statements
+
+Note :-
+if is the keyword
+
+Flow Chart:
+                        +------------------+
+                        |   Condition ?    |
+                        +------------------+
+                               |
+                      +--------+--------+
+                      |                 |
+                    Yes               No
+                     |                 |
+                +------------+   +-------------+
+                |  Execute   |   | Skip block  |
+                |  if block  |   +-------------+
+                +------------+
+                     |
+                +------------+
+                | Continue...|
+                +------------+
+
+Questions
+What is drawback of if condtion.
+What is meaning of condtional statement
+What are types of conditional statement
+What is if condition
+What is True State Block
+
