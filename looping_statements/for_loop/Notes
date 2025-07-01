@@ -29,3 +29,12 @@ str1 = 'Hello'
 for i in str1:
     print(i)
 
+
+"""
+range()
+for variable in range(startIndex, endIndex, stepValue):
+        #statement
+"""
+for i in range(1,101):
+    print(i)
+
