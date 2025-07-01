@@ -1,0 +1,31 @@
+1. Difference between for and while loop
+-----------------------------------------
+in while loop we have to do increment and decrement manually in for loop we dont need to do manually
+
+-> when we know number of iterations we must go by for loop
+-> when the number of iterations are unknown go for while loop
+----------------------------------------
+
+---------
+For Loop
+---------
+
+1) for var in iterable:
+        # statement
+
+----------------------------------------------------------
+Here,
+for -> keyword
+var -> start point
+var -> in the place of var we can use any character
+in  -> membership operator
+iterable -> collection data type(str/tuple/list/set/dict)
+----------------------------------------------------------
+
+2. Write a program to print all the characters "Hello"
+
+str1 = 'Hello'
+
+for i in str1:
+    print(i)
+
