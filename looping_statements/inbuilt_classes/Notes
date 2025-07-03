@@ -1,0 +1,25 @@
+                            -------------
+                            inbuilt class
+                            -------------
+
+reversed()
+enumerate()
+zip()
+zip.longest()
+
+a = [1,2,3]
+print(reversed(a)) -> stores obj address
+we need to type cast
+1. except str we can use all iterables
+reversed(iterable)
+
+for var in reversed(iterable):
+    # statement
+or we can use looping
+
+# reverse and reversed
+reverse - > part of list data type
+reversed -> all iterables except str | inbuilt class
+
+2) enumerate()
+x = "programming" # output | pos and char |
