@@ -1,11 +1,16 @@
-                            -------------
-                            inbuilt class
-                            -------------
+                              -------------
+                            | inbuilt class |
+                              -------------
 
-reversed()
-enumerate()
-zip()
-zip.longest()
+1) reversed()
+# diff between reverse and reversed
+2) enumerate()
+# why to use? pos and char fetch |
+3) zip()
+why to use zip()? disadvantage of zip()?
+4) zip_longest()
+why to use zip_longest() how it overcome zip()?
+from itertools import zip_longest
 
 a = [1,2,3]
 print(reversed(a)) -> stores obj address
@@ -23,3 +28,10 @@ reversed -> all iterables except str | inbuilt class
 
 2) enumerate()
 x = "programming" # output | pos and char |
+
+==================================================
+d = "python"
+for i,j in enumerate(d):
+    print(i,j)
+
+
