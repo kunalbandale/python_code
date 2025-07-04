@@ -1,0 +1,16 @@
+Transfer Statement
+1 - break
+2 - continue
+3 - pass
+
+--------
+Working
+--------
+1) pass
+- to avoid error format . no operation purpose we are using pass keyword
+- abstraction concept we use pass
+
+d = [1,2,3,4]
+
+for i in d:
+    pass
