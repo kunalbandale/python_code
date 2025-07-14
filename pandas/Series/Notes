@@ -1,0 +1,57 @@
+Pandas
+⦁	pandas is open source library,
+⦁	developed by wes McKinney
+⦁	launched in the year 2008.
+
+--
+step 1 :-
+import pandas
+
+using alias name
+import pandas as pd
+
+---
+pandas types:-
+1.	Series()   ->  one dimensional | unidimensional (only we have to create single column)
+2.	DataFrame() ->
+3.	panel() - not used
+
+Syntax : -
+
+1.	newVar = pd.Series(iter)
+2. newVar = Pandas.Series(iter)
+
+Series is Class (First letter should be uppercase)
+
+Note:- Whenever you are on Series use homogeneous data.
+(tools:- google colab \ jypter notebook \ PyCharm )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
