@@ -1,0 +1,40 @@
+-------
+Numpy :
+-------
+
+- Numerical Operations. if you want to work on mathematical operations we can go with the Numpy.
+- Don't mention file name as a Numpy   ( numpy.py ) this format is wrong. 
+- Numpy (one common questions is asked (list Vs array)
+- If you want to insert multiple elements at the time we can go with arrays.
+- arrays is faster than list. 
+- array will accept only homogenerons elements only. 
+- by using numpy we can work in pandas , seaborn , matplotlib 
+- throught numpy we can't do any data cleaning.
+- numpy we can fetch all aggregation operations (mean,max,min.....etc)
+- check version for pandas - 
+----------------------------------
+import pandas as pd
+pd.__version__
+----------------------------------
+
+step 1:
+------------------------
+pip install numpy
+------------------------
+Step 2:
+------------------------
+import numpy as np
+------------------------
+Step 3:
+------------------------
+np.__version__
+------------------------
+
+
+
+
+
+
+
+
+
