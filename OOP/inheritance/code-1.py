@@ -15,11 +15,12 @@ from parents.
 class Dad:
     def villa(self):
         print("villa (Mumbai)")
-
+        print("villa (Pune)")
 class Child(Dad):
     def bike(self):
         print("the bike (bmw)")
 # single inheritance
 c = Child()
 c.bike()
+# parent function call
 c.villa()
