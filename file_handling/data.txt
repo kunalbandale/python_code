@@ -1,0 +1,7 @@
+python
+sql
+java
+ruby
+react
+html 
+css js

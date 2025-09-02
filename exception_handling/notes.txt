@@ -1,0 +1,45 @@
+Exception Handling 
+-------------------
+In every language we get two kinds of error
+        1. Syntax Error (Human Error)
+        2. Runtime Error (execution time it will show error)
+
+-----------------------------------
+Note: 
+We can't handle syntax error. 
+We can handle runtime error. 
+----------------------------------
+
+Defition :- 
+--------------
+1) Unwanted and unexcepted event happens suddenly  while execution of the program. 
+2) It is an event trigger occur suddenly while execution of the program. 
+
+How we are handling error:- 
+----------------------------
+Using two blocks - 
+    1. try
+    2. except 
+-------------------------------------------------------------------------------------------
+Types of Error in Python 
+1. predefined error
+- NameError
+- AtrributeError
+- KeyError
+- FileNotDefinedError
+
+2. userdefined error 
+- we create error according to our conditions we can create. 
+- here we can change name 
+------------------------------------------------------------------------------------------
+by using raise keyword we can create user defined error 
+
+
+try - 
+
+
+
+
+except - 
+
+
